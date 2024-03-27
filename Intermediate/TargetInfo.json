@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Galaga_USFX",
+			"Path": "C:\\GALAGA USFX_LAB02\\Galaga_USFX\\Source\\Galaga_USFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Galaga_USFXEditor",
+			"Path": "C:\\GALAGA USFX_LAB02\\Galaga_USFX\\Source\\Galaga_USFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

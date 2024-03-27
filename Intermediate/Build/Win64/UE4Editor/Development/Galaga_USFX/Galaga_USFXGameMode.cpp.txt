@@ -1,0 +1,29 @@
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX\Definitions.Galaga_USFX.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\Galaga_USFXGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXGameMode.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\Galaga_USFXPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\Galaga_USFXPawn.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemiga.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaCazador.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaCazador.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaTransporte.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaTransporte.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaEspia.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaEspia.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaReabastesimiento.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaReabastesimiento.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaNodriza.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaNodriza.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemigaKamikaze.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaKamikaze.generated.h

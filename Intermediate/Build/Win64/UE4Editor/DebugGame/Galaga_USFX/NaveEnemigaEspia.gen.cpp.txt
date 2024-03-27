@@ -1,0 +1,7 @@
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\DebugGame\Galaga_USFX\Definitions.Galaga_USFX.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX/NaveEnemigaEspia.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Source\Galaga_USFX\NaveEnemiga.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemiga.generated.h
+C:\GALAGA USFX_LAB03\Galaga_USFX_LAB02-master\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX\NaveEnemigaEspia.generated.h
